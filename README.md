@@ -6,6 +6,10 @@ This project presents an interactive sales analysis dashboard built using Micros
 ## Dashboard Preview
 ![Madhav General Store Dashboard](Dashboard_Preview.png)
 
+## Product & Profitability Analysis
+
+![Product & Profitability Analysis](Product_Profitability_Preview.png)
+
 ## Tools & Technologies
 - Microsoft Power BI Desktop
 - Power Query
